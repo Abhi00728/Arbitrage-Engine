@@ -171,4 +171,5 @@ While the software architecture is fully asynchronous and modularized for produc
 ---
 
 ## 📜 Disclaimer
-*This repository is built for quantitative systems research and algorithmic engineering demonstration. Automated trading across cryptocurrency venues involves substantial financial, network, and smart-contract/exchange risk.*
+*This repository is built for quantitative systems research and algorithmic engineering demonstration. Automated trading across cryptocurrency venues involves substantial financial, network, and smart-contract/exchange risk.
+The Project is still subject to few changes, but almost ready for production*
